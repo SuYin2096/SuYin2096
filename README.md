@@ -2,12 +2,12 @@
 ### A backend developer, specializing in developing high quality Back-end services using SpringBoot. 
 #### I enjoy on researching new technologies and learning new things.
 
-<img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" style={{ display: "inline" }} />
-
-<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social"  style={{ display: "inline" }}>
 
 <a href="https://app.daily.dev/suyin2096"><img src="https://api.daily.dev/devcards/v2/fvfCJr1LEsShdJ2h7UcZY.png?type=wide&r=dqo" width="652" alt="Su Yin's Dev Card"/></a>
 <hr>
+<img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" style={{ display: "inline" }} />
+
+<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social"  style={{ display: "inline" }}>
 
 ###  ✨ Tech stack currently using:
 <br>
@@ -28,8 +28,6 @@
 <code><a href="https://medium.com/@suyin-90244" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a></code>
 <code><a href="https://www.facebook.com/suyin.jdev" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"></a></code>
 <hr>
-
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
