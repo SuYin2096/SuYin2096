@@ -24,7 +24,9 @@
 ### My Contrubution on Educational Purpose
 <code><a href="https://www.youtube.com/channel/UCxNrGZGhannC7VfwSeT85CA" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a></code>
 <code><a href="https://medium.com/@suyin-90244" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a></code>
-
+<hr>
+<img src="https://myreadme.vercel.app/api/embed/SuYin2096?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<hr>
 <img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
