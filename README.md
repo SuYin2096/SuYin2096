@@ -25,7 +25,7 @@
 <code><a href="https://www.facebook.com/suyin.jdev" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"></a></code>
 <hr>
 <img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" style={{ display: "inline" }} />
-<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social">
+<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social"  style={{ display: "inline" }}>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
