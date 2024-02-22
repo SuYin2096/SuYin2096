@@ -6,9 +6,7 @@
 <a href="https://app.daily.dev/suyin2096"><img src="https://api.daily.dev/devcards/v2/fvfCJr1LEsShdJ2h7UcZY.png?type=wide&r=dqo" width="652" alt="Su Yin's Dev Card"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" />
-<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social" />
 
-<hr>
 ###  ✨ Tech stack currently using:
 <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
