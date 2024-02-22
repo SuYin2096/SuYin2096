@@ -1,7 +1,9 @@
 ## Hi! I'm Su.👋
 ### A backend developer, specializing in developing high quality Back-end services using SpringBoot. 
 #### I enjoy on researching new technologies and learning new things.
+
 <img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" style={{ display: "inline" }} />
+
 <img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social"  style={{ display: "inline" }}>
 
 <a href="https://app.daily.dev/suyin2096"><img src="https://api.daily.dev/devcards/v2/fvfCJr1LEsShdJ2h7UcZY.png?type=wide&r=dqo" width="652" alt="Su Yin's Dev Card"/></a>
