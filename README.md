@@ -24,7 +24,7 @@
 <code><a href="https://medium.com/@suyin-90244" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a></code>
 <code><a href="https://www.facebook.com/suyin.jdev" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"></a></code>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" display="inline" />
 <img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social">
 
 
