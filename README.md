@@ -7,7 +7,7 @@
 <hr>
 <img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" style={{ display: "inline" }} />
 
-<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social"  style={{ display: "inline" }}>
+<img alt="followers" src="https://img.shields.io/github/followers/SuYin2096?label=Followers&style=social"  style={{ display: "inline" }} />
 
 ###  ✨ Tech stack currently using:
 <br>
