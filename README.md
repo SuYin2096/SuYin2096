@@ -17,6 +17,7 @@
 <hr>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
 
 
 ### My Contrubution on Educational Purpose
