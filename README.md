@@ -2,7 +2,7 @@
 ### A backend developer, specializing in developing high quality Back-end services using SpringBoot. 
 #### I enjoy on researching new technologies and learning new things.
 
-<a href="https://app.daily.dev/suyin2096"><img src="./devcard.png" width="356" alt="Su Yin's Dev Card"/></a>
+<a href="https://app.daily.dev/suyin2096"><img src="https://api.daily.dev/devcards/v2/fvfCJr1LEsShdJ2h7UcZY.png?type=default&r=dqo" width="356" alt="Su Yin's Dev Card"/></a>
 <hr>
 
 ###  ✨ Tech stack currently using:
