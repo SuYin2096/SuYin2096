@@ -2,6 +2,7 @@
 #### I enjoy on researching new technologies and learning new things.
 
 <a href="https://app.daily.dev/suyin2096"><img src="https://api.daily.dev/devcards/v2/fvfCJr1LEsShdJ2h7UcZY.png?r=i0i&type=wide" width="652" alt="Su Yin's Dev Card"/></a>
+<hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ###  ✨ Tech stack currently using:
