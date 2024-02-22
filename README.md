@@ -2,6 +2,7 @@
 #### I enjoy on researching new technologies and learning new things.
 
 <a href="https://app.daily.dev/suyin2096"><img src="https://api.daily.dev/devcards/v2/fvfCJr1LEsShdJ2h7UcZY.png?r=i0i&type=wide" width="652" alt="Su Yin's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ###  ✨ Tech stack currently using:
 <br>
@@ -16,7 +17,7 @@
 ### My Contrubution on Educational Purpose
 <code><a href="https://www.youtube.com/channel/UCxNrGZGhannC7VfwSeT85CA" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuYin2096&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 
 #### 📫 How to reach me: suyin2096@gmail.com
 #### ⚡ Fun fact: Art is my thing.
