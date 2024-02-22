@@ -16,6 +16,8 @@
 ### My Contrubution on Educational Purpose
 <code><a href="https://www.youtube.com/channel/UCxNrGZGhannC7VfwSeT85CA" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a></code>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 #### 📫 How to reach me: suyin2096@gmail.com
 #### ⚡ Fun fact: Art is my thing.
 
