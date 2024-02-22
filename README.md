@@ -21,6 +21,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-#### 📫 How to reach me: suyin2096@gmail.com
+#### 📫 How to reach me: suyin2096@gmail.com <a href="https://www.linkedin.com/in/su-yin-974276157/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 #### ⚡ Fun fact: Art is my thing.
 
