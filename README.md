@@ -8,8 +8,7 @@
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://spring.io" target="_blank"><img height="30" src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)"></a></code>
-
+<code><a href="https://spring.io" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
 
 #### 📫 How to reach me: suyin2096@gmail.com
 #### ⚡ Fun fact: Art is my thing.
