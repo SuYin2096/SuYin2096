@@ -34,7 +34,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuYin2096&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-<a href="http://www.github.com/SuYin2096"><img src="https://camo.githubusercontent.com/482c2402e45cf01aa1406a47b47bc9af7c758ae5b5721883b117f45232dd3531/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b68616e747761696b796177267374726f6b653d666666666666266261636b67726f756e643d3163313931372672696e673d30383931623226666972653d303839316232266375727253747265616b4e756d3d666666666666266375727253747265616b4c6162656c3d30383931623226736964654e756d733d66666666666626736964654c6162656c733d6666666666662664617465733d66666666666626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=SuYin2096&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" style="max-width: 100%;"></a>
 
 #### 📫 How to reach me: suyin2096@gmail.com 
 #### ⚡ Fun fact: Art is my thing.
