@@ -18,7 +18,7 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://www.rabbitmq.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
