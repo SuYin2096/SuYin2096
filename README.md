@@ -1,7 +1,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=SuYin2096&color=brightgreen" alt="watching_count" />
 
+<hr>
+
 ## Hi! I'm Su.👋
+
 ### A backend developer, specializing in developing high quality Back-end services using SpringBoot. 
 #### I enjoy on researching new technologies and learning new things.
 
