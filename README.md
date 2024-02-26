@@ -35,7 +35,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYin2096&show_icons=true&locale=en&layout=compact" alt="ovi" />
 
-![Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuYin2096&show_icons=true&theme=radical)
+![Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuYin2096&show_icons=true&theme=buefy)
 
 
 #### 📫 How to reach me: suyin2096@gmail.com 
